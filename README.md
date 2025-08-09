@@ -54,7 +54,7 @@ Berikut adalah peta lokasi penelitian yang digunakan dalam analisis:
 
 
 ## Methodology
-
+https://github.com/hanumresti/UndergraduatedThesis/commit/49cdf4bd691b5941371c86afab1febf0c7b2bbf0#r163715783
 ## References
 
  ________________________________________________________________________________________________________________________________________________________
